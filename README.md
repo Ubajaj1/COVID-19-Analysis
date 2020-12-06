@@ -9,4 +9,3 @@ Following points were implemented via this project
 6.Exploring World Wide Data
 7.Visualizing : Worldwide NCOVID-19 Cases
 8.Forecasting Total Number of Cases Worldwide
-
